@@ -2,3 +2,15 @@
 [REPLACE ME!] 
 
 Add your profile details here
+## Osman Duru
+**Oduru**
+**Osmanduru1**
+*He/Him*
+*Sophmore*
+*Computer science*
+![image of myself](https://media.licdn.com/dms/image/v2/D5603AQHlTGyfZPbKZQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722638791469?e=1770249600&v=beta&t=53uVAjyo8JsTLeFNMInrJZVURRA92wKRxlM8FMvsTC0)
+Hobies below
+1. Lifting weight
+2. Learning math as a hobby
+3. Occasional hack the box
+[Red Dead Redemption](https://www.rockstargames.com/reddeadredemption2)
